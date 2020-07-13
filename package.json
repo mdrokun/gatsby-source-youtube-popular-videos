@@ -1,5 +1,5 @@
 {
-  "name": "gatsby-source-youtube-popular-videos",
+  "name": "gatsby-source-youtube-most-popular-videos",
   "version": "1.0.0",
   "description": "YouTube most popular video fetching plugin for Gatsby",
   "main": "gatsby-node.js",
