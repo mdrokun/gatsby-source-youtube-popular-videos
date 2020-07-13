@@ -1,5 +1,5 @@
 {
-  "name": "gatsby-source-youtube-most-popular-videos",
+  "name": "gatsby-source-youtube-popular-videos",
   "version": "1.0.0",
   "description": "YouTube most popular video fetching plugin for Gatsby",
   "main": "gatsby-node.js",
@@ -7,7 +7,7 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": ["youtube most popular videos, gatsby, javascript"],
-  "author": "@RokunWDev",
+  "author": "mdrokun",
   "license": "MIT",
   "dependencies": {
     "axios": "^0.19.2"
