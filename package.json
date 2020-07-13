@@ -1,7 +1,7 @@
 {
   "name": "gatsby-source-youtube-popular-videos",
   "version": "1.0.0",
-  "description": "",
+  "description": "YouTube most popular video fetching plugin for Gatsby",
   "main": "gatsby-node.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
