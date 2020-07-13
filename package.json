@@ -8,7 +8,7 @@
   },
   "keywords": [],
   "author": "@RokunWDev",
-  "license": "ISC",
+  "license": "MIT",
   "dependencies": {
     "axios": "^0.19.2"
   }
