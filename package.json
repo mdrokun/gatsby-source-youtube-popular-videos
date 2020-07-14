@@ -6,7 +6,9 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": ["youtube most popular videos, gatsby, javascript"],
+  "keywords": [
+    "youtube most popular videos, gatsby, gatsby-plugin, javascript"
+  ],
   "author": "mdrokun",
   "license": "MIT",
   "dependencies": {
